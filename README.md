@@ -1,2 +1,2 @@
 # html-basic-portfolio
-First ever Git and WebDev related project
+i submitted this for a hackathon👍
